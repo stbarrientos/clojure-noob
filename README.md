@@ -1,32 +1,7 @@
 # clojure-noob
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar clojure-noob-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+My test drive with clojure using Leiningen.
+So far I have a simple fizzbuzz program, check back soon to see what else I've done!
 
 ## License
 
